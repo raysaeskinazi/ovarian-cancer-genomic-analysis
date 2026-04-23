@@ -23,11 +23,13 @@ The R175H mutation replaces a positively charged Arginine with a Histidine in th
 *(Below is the visualization of the mutation site)*
 
 **1. Wild-Type TP53 (Healthy DNA Binding)**
-> [GÖRSEL BURAYA GELECEK: saglikli_model.png]
+<img width="2500" height="1499" alt="p53_DNA_final" src="https://github.com/user-attachments/assets/d448f72a-0515-49ab-b1c0-46a346e5736e" />
+
 *Visualization of the wild-type Arginine-175 (Red) properly structurally supporting the DNA-binding domain.*
 
 **2. Mutant TP53 - R175H (Loss of Function)**
-> [GÖRSEL BURAYA GELECEK: mutant_model.png]
+<img width="2500" height="1499" alt="p53_DNA_mutant_R175H" src="https://github.com/user-attachments/assets/b502d266-b2a6-43af-972a-8dd07d84a52a" />
+
 *In silico mutagenesis demonstrating the structural distortion caused by the Histidine substitution (Magenta), leading to impaired DNA interaction.*
 
 ## 📂 Repository Structure
